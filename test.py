@@ -1,3 +1,3 @@
 def stuff() :
-    print("U dumb")
+    print("No you dumbass")
 stuff()
