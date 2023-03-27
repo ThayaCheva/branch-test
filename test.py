@@ -1,5 +1,4 @@
-
 def stuff() :
-    print("Hello World")
+    print("Goodbye World")
 
 stuff()
